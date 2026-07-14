@@ -1,0 +1,30 @@
+{
+  "name": "software-implementation",
+  "version": "1.0.0",
+  "description": "Generate production-ready implementation from architecture and specification documents, with language-aware profiles and test-driven validation",
+  "author": {
+    "name": "Remy"
+  },
+  "keywords": ["implementation", "coding", "tdd", "language-profiles", "generation"],
+  "commands": [
+    {
+      "name": "implementation-generate",
+      "description": "Generate implementation code from architecture and specification documents",
+      "path": "commands/implementation-generate.md"
+    }
+  ],
+  "agents": [
+    {
+      "name": "implementation-generator",
+      "description": "Use this agent when the user wants to generate implementation code from architecture and specifications, or when moving from design to working code",
+      "path": "agents/implementation-generator.md"
+    }
+  ],
+  "skills": [
+    {
+      "name": "implementation-engineering",
+      "description": "Language-aware implementation patterns, TDD workflows, and code quality guidance",
+      "path": "skills/implementation-engineering/SKILL.md"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "software-requirements",
+  "version": "1.0.0",
+  "description": "Transform informal feature descriptions into structured software requirements documents",
+  "author": {
+    "name": "Remy"
+  },
+  "keywords": ["requirements", "specification", "planning", "documentation"],
+  "commands": [
+    {
+      "name": "requirements-refine",
+      "description": "Transform informal feature descriptions into structured requirements",
+      "path": "commands/requirements-refine.md"
+    }
+  ],
+  "agents": [
+    {
+      "name": "requirements-refiner",
+      "description": "Use this agent when the user is describing a feature, system, or functionality they want to build, BEFORE designing or implementing it",
+      "path": "agents/requirements-refiner.md"
+    }
+  ],
+  "skills": [
+    {
+      "name": "requirements-engineering",
+      "description": "Knowledge for structuring requirements and question patterns",
+      "path": "skills/requirements-engineering/SKILL.md"
+    }
+  ]
+}

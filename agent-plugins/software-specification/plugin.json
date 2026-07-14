@@ -1,0 +1,30 @@
+{
+  "name": "software-specification",
+  "version": "1.0.0",
+  "description": "Generate executable test specifications (contracts, behaviors, properties) from architecture and requirements documents",
+  "author": {
+    "name": "Remy"
+  },
+  "keywords": ["specification", "testing", "contracts", "bdd", "property-testing"],
+  "commands": [
+    {
+      "name": "specification-write",
+      "description": "Generate executable test specifications from architecture and requirements",
+      "path": "commands/specification-write.md"
+    }
+  ],
+  "agents": [
+    {
+      "name": "specification-writer",
+      "description": "Use this agent when the user wants to write executable test specifications from architecture and requirements, or discusses specification-driven or contract-first development",
+      "path": "agents/specification-writer.md"
+    }
+  ],
+  "skills": [
+    {
+      "name": "specification-engineering",
+      "description": "Patterns for contract, behavior, and property-based specifications",
+      "path": "skills/specification-engineering/SKILL.md"
+    }
+  ]
+}

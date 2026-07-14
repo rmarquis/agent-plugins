@@ -1,0 +1,30 @@
+{
+  "name": "software-architecture",
+  "version": "1.0.0",
+  "description": "Design internal software architecture using principles from 'A Philosophy of Software Design' by John Ousterhout",
+  "author": {
+    "name": "Remy"
+  },
+  "keywords": ["architecture", "design", "ousterhout", "modules", "complexity"],
+  "commands": [
+    {
+      "name": "architecture-design",
+      "description": "Design software architecture from requirements using Ousterhout's principles",
+      "path": "commands/architecture-design.md"
+    }
+  ],
+  "agents": [
+    {
+      "name": "architecture-designer",
+      "description": "Use this agent when the user wants to design software architecture from requirements, or discusses architectural design after requirements have been captured",
+      "path": "agents/architecture-designer.md"
+    }
+  ],
+  "skills": [
+    {
+      "name": "architecture-design",
+      "description": "Ousterhout's principles for creating software with minimal complexity",
+      "path": "skills/architecture-design/SKILL.md"
+    }
+  ]
+}
