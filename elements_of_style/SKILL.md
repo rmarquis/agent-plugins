@@ -271,6 +271,7 @@ AI-generated prose has predictable tics. When editing, remove these markers so t
 | Emoji and emoticons (😊, 🚀, ✅) | Visual clutter; inappropriate in formal prose. | Plain words or punctuation. |
 | Overused em dashes (—) | AI uses dashes for every aside, producing a choppy rhythm. | Commas, parentheses, or a recast sentence. |
 | Excessive bullet lists and numbered steps | Fragments prose into slide-deck chunks. | Paragraphs with topic sentences. |
+| Excessive bold text | AI scatters bold on every other phrase, turning emphasis into noise. | Reserve bold for headings, defined terms, and the occasional genuinely critical word. |
 | Hedge phrases (*it is important to note*, *it is worth noting*, *it should be noted*) | Empty throat-clearing. | State the fact directly. |
 | Boilerplate transitions (*Moreover*, *Furthermore*, *Additionally*, *That being said*, *In conclusion*) | Mechanical signposting. | Use only when the turn truly needs emphasis; otherwise omit or recast. |
 | Abstract buzzwords (*robust*, *holistic*, *seamless*, *leverage*, *optimize*, *empower*, *delve*, *landscape*, *ecosystem*) | Vague enthusiasm replacing specific thought. | Concrete nouns and verbs. |
@@ -370,6 +371,7 @@ These reminders from E. B. White guide the writer's broader habits of mind.
 - Do not use emoji or emoticons in prose.
 - Do not overuse em dashes or rely on them for every parenthetical.
 - Do not replace paragraphs with bullet lists when prose is more appropriate.
+- Do not use bold as cheap emphasis; reserve it for headings, defined terms, and genuinely critical words.
 - Do not use hedge phrases or boilerplate transitions as filler.
 - Do not use buzzwords when a concrete word exists.
 
