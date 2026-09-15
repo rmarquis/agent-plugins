@@ -1,0 +1,10 @@
+{
+  "name": "software-specification",
+  "version": "1.0.0",
+  "description": "Generate executable test specifications (contracts, behaviors, properties) from architecture and requirements documents",
+  "author": "Remy",
+  "keywords": ["specification", "testing", "contracts", "bdd", "property-testing"],
+  "skills": "./skills/",
+  "agents": "./agents/",
+  "commands": "./commands/"
+}

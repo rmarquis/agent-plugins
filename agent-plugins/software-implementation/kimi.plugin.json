@@ -1,0 +1,10 @@
+{
+  "name": "software-implementation",
+  "version": "1.0.0",
+  "description": "Generate production-ready implementation from architecture and specification documents, with language-aware profiles and test-driven validation",
+  "author": "Remy",
+  "keywords": ["implementation", "coding", "tdd", "language-profiles", "generation"],
+  "skills": "./skills/",
+  "agents": "./agents/",
+  "commands": "./commands/"
+}

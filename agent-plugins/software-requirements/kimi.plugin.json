@@ -1,0 +1,10 @@
+{
+  "name": "software-requirements",
+  "version": "1.0.0",
+  "description": "Transform informal feature descriptions into structured software requirements documents",
+  "author": "Remy",
+  "keywords": ["requirements", "specification", "planning", "documentation"],
+  "skills": "./skills/",
+  "agents": "./agents/",
+  "commands": "./commands/"
+}

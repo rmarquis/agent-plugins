@@ -1,0 +1,10 @@
+{
+  "name": "kotlin-functional",
+  "version": "1.0.0",
+  "description": "Generate and review functional-first, idiomatic Kotlin implementations with comprehensive KDoc documentation",
+  "author": "Remy",
+  "keywords": ["kotlin", "functional-programming", "documentation", "implementation", "review"],
+  "skills": "./skills/",
+  "agents": "./agents/",
+  "commands": "./commands/"
+}
