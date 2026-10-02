@@ -1,0 +1,11 @@
+{
+  "name": "style-clarity-and-grace",
+  "version": "1.0.0",
+  "description": "Analyze and revise prose according to Williams & Bizup's Style: Lessons in Clarity and Grace (12th edition)",
+  "author": "Remy",
+  "keywords": ["writing", "style", "editing", "clarity", "prose"],
+  "interface": {
+    "displayName": "Style: Clarity and Grace",
+    "shortDescription": "Reader-focused prose revision principles (Williams & Bizup)"
+  }
+}

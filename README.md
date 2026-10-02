@@ -22,6 +22,7 @@ See [`agent-plugins/README.md`](agent-plugins/README.md) for full plugin details
 ## Writing and speaking skills
 
 - **`elements_of_style/`** — Rewrite, edit, and polish prose for clarity, brevity, and vigor using Strunk & White's *The Elements of Style*.
+- **`style_clarity_and_grace/`** — Analyze and revise prose using Williams & Bizup's *Style: Lessons in Clarity and Grace*: reader-focused principles of correctness, clarity, concision, and grace.
 - **`how_to_speak/`** — Shape presentation decks according to Patrick Winston's MIT *How to Speak* lecture.
 
 ## Directory layout
