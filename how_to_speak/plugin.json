@@ -1,0 +1,16 @@
+{
+  "name": "how-to-speak",
+  "version": "1.0.0",
+  "description": "Shape presentation decks according to Patrick Winston's MIT \"How to Speak\" lecture",
+  "author": {
+    "name": "Remy"
+  },
+  "keywords": ["speaking", "presentations", "slides", "deck", "communication"],
+  "skills": [
+    {
+      "name": "how-to-speak",
+      "description": "Presentation deck principles: empowerment promises, cycling, fences, slide discipline",
+      "path": "SKILL.md"
+    }
+  ]
+}

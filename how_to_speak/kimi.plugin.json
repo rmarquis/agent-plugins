@@ -1,0 +1,11 @@
+{
+  "name": "how-to-speak",
+  "version": "1.0.0",
+  "description": "Shape presentation decks according to Patrick Winston's MIT \"How to Speak\" lecture",
+  "author": "Remy",
+  "keywords": ["speaking", "presentations", "slides", "deck", "communication"],
+  "interface": {
+    "displayName": "How to Speak",
+    "shortDescription": "Presentation deck principles from Patrick Winston's MIT lecture"
+  }
+}
