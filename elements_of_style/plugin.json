@@ -1,0 +1,16 @@
+{
+  "name": "elements-of-style",
+  "version": "1.0.0",
+  "description": "Rewrite, edit, or polish prose according to Strunk & White's The Elements of Style (4th / 2005 edition)",
+  "author": {
+    "name": "Remy"
+  },
+  "keywords": ["writing", "style", "editing", "clarity", "prose"],
+  "skills": [
+    {
+      "name": "elements-of-style",
+      "description": "Rules and principles for clear, brief, vigorous prose",
+      "path": "SKILL.md"
+    }
+  ]
+}
